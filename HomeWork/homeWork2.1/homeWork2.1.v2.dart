@@ -47,23 +47,3 @@ void main() {
   Products.sort();
   print(Products);
 }
-
-
-
-
-
-
-
-
-// // сортировка по цене
-//   @override
-//   int compareTo(other) {
-//     int nameComp = this.name.compareTo(other.name);
-//     if (nameComp == 0) {
-//       return -this.name.compareTo(other.name);
-//     }
-//     return nameComp;
-//   }
-
- // Products.sort();
-  // print(Products);
